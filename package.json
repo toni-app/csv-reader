@@ -1,0 +1,26 @@
+{
+  "name": "csv-reader",
+  "version": "0.0.1",
+  "description": "Simple utility class to read CSVs line by line",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toni-app/csv-reader.git"
+  },
+  "keywords": [
+    "CSV",
+    "Node.js"
+  ],
+  "author": "Antonio Peral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toni-app/csv-reader/issues"
+  },
+  "homepage": "https://github.com/toni-app/csv-reader#readme"
+}
