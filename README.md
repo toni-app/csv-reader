@@ -15,7 +15,7 @@ Currently the following options exist:
 - firstLineHeader (default = true), takes the first line of the file as the column header.
 - delimiter (default = ","), defines a string as the field delimiter.
 
-The following options are not yet implemented but are planner: line delimiter, escape character. Currently \n is the default line delimiter and '"' is the field escape character.
+The following options are not yet implemented but are planned: line delimiter, field escape character. Currently \n is the default line delimiter and '"' is the field escape character.
 
 The CsvReader class emits two different events:
 
