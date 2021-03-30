@@ -22,4 +22,4 @@ The CsvReader class emits two different events:
 - 'line', emits this event when a new line is parsed. The argument passed to the event is an object which contains either column names as keys (if the firstLineHeader option is set to true) or column indices as keys.
 - 'end', emits this event when EOF is reached, or when maxLines is reached if it is set to 0.
 
-Additionally, the pause() and resume() methods can be called to pause and resume the reading of the file respectively.
+Additionally, the pause() and resume() methods can be called to pause and resume the reading of the file respectively
